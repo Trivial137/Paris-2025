@@ -1,2 +1,2 @@
 # Paris-2025
-This is record my Staying at Paris.
+This repository serves as a comprehensive record of my stay in Paris, QCD 2025.
